@@ -24,8 +24,5 @@ This is a personal portfolio website created to showcase skills, projects, and p
 - `index.html`: Main webpage of the portfolio.
 - `assets/`: Folder containing images, stylesheets, and other resources used by the portfolio.
   
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Author
-Ganesh
+## Developer
+RAVULA GANESH 
